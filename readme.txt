@@ -1,4 +1,3 @@
-# python-demo
 实习的时候做的Python小脚本
 爬虫
 --coser.py
